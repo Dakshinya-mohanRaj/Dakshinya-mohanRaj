@@ -1,8 +1,4 @@
 <!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dakshinya-mohanRaj/Dakshinya-mohanRaj/main/banner.svg" alt="Dakshinya's Terminal Header" width="100%">
-</p>
-
 <!-- GREETING & INTRO -->
 <div align="center">
   <h1>👋 Hello World, I'm Dakshinya MohanRaj</h1>
