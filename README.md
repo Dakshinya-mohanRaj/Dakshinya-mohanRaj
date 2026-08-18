@@ -43,16 +43,30 @@
       <p>A premium web application for a luxury nail salon &amp; beauty store featuring a catalog, administrative console, booking flows, and high-fidelity CSS styling.</p>
       <code>HTML5</code> &bull; <code>CSS3</code> &bull; <code>JavaScript</code>
       <br /><br />
-      <a href="https://github.com/Dakshinya-mohanRaj/nail-glam"><b>Explore Project →</b></a>
-      <br /><br />
       <sub>Status: <b>Active Development</b></sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ Credit Card Fraud Detection</h4>
-      <p>A Random Forest-based machine learning system that classifies credit card transactions as Genuine or Fraudulent, complete with evaluation metrics and an interactive Streamlit demo.</p>
-      <code>Python</code> &bull; <code>Scikit-learn</code> &bull; <code>Pandas</code> &bull; <code>Streamlit</code>
+      <h4>🎓 IIITApfolio</h4>
+      <p>An academic and non-academic digital portfolio system designed to showcase and track project submissions for IIIT-A students.</p>
+      <code>HTML5</code> &bull; <code>CSS3</code> &bull; <code>JavaScript</code> &bull; <code>Node.js</code> &bull; <code>MySQL</code>
       <br /><br />
-      <a href="https://github.com/Dakshinya-mohanRaj/RF-credit-card-fraud-detection"><b>Explore Project →</b></a>
+      <a href="https://github.com/Dakshinya-mohanRaj/Dakshinya-portfolio"><b>Explore Project →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ ProjectX</h4>
+      <p>A robust cloud-based file sharing web application powered by AWS S3 buckets for secure storage, retrieval, and management.</p>
+      <code>React</code> &bull; <code>AWS S3</code> &bull; <code>Express.js</code> &bull; <code>MongoDB</code>
+      <br /><br />
+      <a href="https://github.com/Dakshinya-mohanRaj/Dakshinya-portfolio"><b>Explore Project →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 CrypTrack</h4>
+      <p>A real-time cryptocurrency monitor offering live market tickers, data tracking, and dynamic visual indicators of digital assets.</p>
+      <code>React</code> &bull; <code>Tailwind CSS</code> &bull; <code>Express.js</code> &bull; <code>Binance API</code>
+      <br /><br />
+      <a href="https://github.com/Dakshinya-mohanRaj/Dakshinya-portfolio"><b>Explore Project →</b></a>
     </td>
   </tr>
 </table>
@@ -60,6 +74,11 @@
 ### 📊 GitHub Stats &amp; Contributions
 
 <div align="center">
+  <!-- Contribution Snake Grid Animation -->
+  <img src="./github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+  
+  <br /><br />
+  
   <!-- Streak Stats Card -->
   <img src="https://streak-stats.demolab.com/?user=Dakshinya-mohanRaj&amp;theme=dark&amp;stroke=1f2430&amp;background=0d1117&amp;fire=C778DD&amp;ring=C778DD&amp;currStreakNum=61AFEF&amp;currStreakLabel=ABB2BF" alt="Dakshinya's GitHub Streak" />
 </div>
