@@ -71,7 +71,7 @@
 
 <div align="center">
   <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.js.org/?user=Dakshinya-mohanRaj&amp;theme=dark&amp;stroke=1f2430&amp;background=0d1117&amp;fire=C778DD&amp;ring=C778DD&amp;currStreakNum=61AFEF&amp;currStreakLabel=ABB2BF" alt="Dakshinya's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Dakshinya-mohanRaj&amp;theme=dark&amp;stroke=1f2430&amp;background=0d1117&amp;fire=C778DD&amp;ring=C778DD&amp;currStreakNum=61AFEF&amp;currStreakLabel=ABB2BF" alt="Dakshinya's GitHub Streak" />
 </div>
 
 ---
